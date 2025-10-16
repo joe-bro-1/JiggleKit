@@ -235,6 +235,7 @@ struct JiggleModifier: ViewModifier {
 }
 
 
+@available(iOS 17.0, *)
 #Preview("Many Small Squares") {
   @Previewable @State var isJiggling: Bool = false
   
@@ -258,6 +259,7 @@ struct JiggleModifier: ViewModifier {
   }.padding()
 }
 
+@available(iOS 17.0, *)
 #Preview("Big And Small Rectangles") {
   @Previewable @State var isJiggling: Bool = false
   
@@ -302,6 +304,7 @@ struct JiggleModifier: ViewModifier {
   }.padding()
 }
 
+@available(iOS 17.0, *)
 #Preview("Different Intensity") {
   @Previewable @State var isJiggling: Bool = false
   
@@ -319,7 +322,7 @@ struct JiggleModifier: ViewModifier {
   }.padding()
 }
 
-
+@available(iOS 17.0, *)
 #Preview("Single for logs") {
   @Previewable @State var isJiggling: Bool = false
   
@@ -337,6 +340,7 @@ struct JiggleModifier: ViewModifier {
   }.padding()
 }
 
+@available(iOS 17.0, *)
 #Preview("With disappear") {
   @Previewable @State var isJiggling: Bool = true
   let colors = [UIColor.systemRed, UIColor.systemBlue, UIColor.systemYellow, UIColor.systemGreen, UIColor.systemOrange, UIColor.systemPurple]

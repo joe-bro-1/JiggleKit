@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "JiggleKit",
     platforms: [
-      .iOS(SupportedPlatform.IOSVersion.v17),
+      .iOS(SupportedPlatform.IOSVersion.v16),
       .macOS(SupportedPlatform.MacOSVersion.v14)
     ],
     products: [
