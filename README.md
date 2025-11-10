@@ -2,9 +2,11 @@
 
 ## Overview
 
-``JiggleKit`` is a revolutionary SwiftUI package that enables your `Views` to jiggle, like the iPhone home screen "jiggle mode". It has been developed by Vis Fitness for implementing a jiggle-mode-like functionality in our upcoming [Vis](https://vis.fitness) iOS app. We think you're gonna to love it.
+``JiggleKit`` is a revolutionary SwiftUI package that enables your `Views` to jiggle, like the iPhone home screen "jiggle mode". It has been developed by Vis Fitness for implementing a jiggle-mode-like functionality in the [Vis](https://vis.fitness) iOS app. We think you're gonna to love it.
 
-![A set of rectangle of different shapes and colors all jiggling together in a delightful manner.](/Documentation/jiggle.gif)
+![A showcase of Vis's Jiggle-Mode schedule editing](/Documentation/jiggle.gif)
+
+[<img src="Documentation/appstore.svg" alt="Download Vis on the App Store"/>](https://apps.apple.com/us/app/vis-next-generation-workouts/id6743175121)
 
 > [!NOTE]
 > Be sure to check out the package documentation [here](https://visfitness.github.io/JiggleKit/documentation/jigglekit/)
